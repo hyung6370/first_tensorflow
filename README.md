@@ -1,2 +1,2 @@
 # first_tensorflow
-ML tensorflow study👨🏻‍💻
+ML tensorflow study👨🏻‍💻 (For Sung Kim's class)
